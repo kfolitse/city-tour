@@ -1,0 +1,368 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<section
+  className="tourlist"
+>
+  <article
+    className="tour"
+  >
+    <div
+      className="img-container"
+    >
+      <img
+        alt=""
+        src="./img/subiyanto.jpg"
+      />
+      <span
+        className="close-btn"
+        onClick={[Function]}
+      >
+        <i
+          className="fas fa-window-close"
+        />
+      </span>
+    </div>
+    <div
+      className="tour-info"
+    >
+      <h3>
+         
+        Castleman
+         
+      </h3>
+      <h4>
+         
+        Bonheur
+         
+      </h4>
+      <h5>
+        info
+         
+        <span
+          onClick={[Function]}
+        >
+          <i
+            className="fas fa-caret-square-down"
+          />
+        </span>
+      </h5>
+    </div>
+  </article>
+  <article
+    className="tour"
+  >
+    <div
+      className="img-container"
+    >
+      <img
+        alt=""
+        src="./img/luiz.jpg"
+      />
+      <span
+        className="close-btn"
+        onClick={[Function]}
+      >
+        <i
+          className="fas fa-window-close"
+        />
+      </span>
+    </div>
+    <div
+      className="tour-info"
+    >
+      <h3>
+         
+        Kolo-kope
+         
+      </h3>
+      <h4>
+         
+        Patrie
+         
+      </h4>
+      <h5>
+        info
+         
+        <span
+          onClick={[Function]}
+        >
+          <i
+            className="fas fa-caret-square-down"
+          />
+        </span>
+      </h5>
+    </div>
+  </article>
+  <article
+    className="tour"
+  >
+    <div
+      className="img-container"
+    >
+      <img
+        alt=""
+        src="./img/rafa.jpg"
+      />
+      <span
+        className="close-btn"
+        onClick={[Function]}
+      >
+        <i
+          className="fas fa-window-close"
+        />
+      </span>
+    </div>
+    <div
+      className="tour-info"
+    >
+      <h3>
+         
+        Kokote
+         
+      </h3>
+      <h4>
+         
+        Honneur
+         
+      </h4>
+      <h5>
+        info
+         
+        <span
+          onClick={[Function]}
+        >
+          <i
+            className="fas fa-caret-square-down"
+          />
+        </span>
+      </h5>
+    </div>
+  </article>
+  <article
+    className="tour"
+  >
+    <div
+      className="img-container"
+    >
+      <img
+        alt=""
+        src="./img/maksin.jpg"
+      />
+      <span
+        className="close-btn"
+        onClick={[Function]}
+      >
+        <i
+          className="fas fa-window-close"
+        />
+      </span>
+    </div>
+    <div
+      className="tour-info"
+    >
+      <h3>
+         
+        Babame
+         
+      </h3>
+      <h4>
+         
+        Volonte
+         
+      </h4>
+      <h5>
+        info
+         
+        <span
+          onClick={[Function]}
+        >
+          <i
+            className="fas fa-caret-square-down"
+          />
+        </span>
+      </h5>
+    </div>
+  </article>
+  <article
+    className="tour"
+  >
+    <div
+      className="img-container"
+    >
+      <img
+        alt=""
+        src="./img/kevin.jpg"
+      />
+      <span
+        className="close-btn"
+        onClick={[Function]}
+      >
+        <i
+          className="fas fa-window-close"
+        />
+      </span>
+    </div>
+    <div
+      className="tour-info"
+    >
+      <h3>
+         
+        Kpessi
+         
+      </h3>
+      <h4>
+         
+        Amour
+         
+      </h4>
+      <h5>
+        info
+         
+        <span
+          onClick={[Function]}
+        >
+          <i
+            className="fas fa-caret-square-down"
+          />
+        </span>
+      </h5>
+    </div>
+  </article>
+  <article
+    className="tour"
+  >
+    <div
+      className="img-container"
+    >
+      <img
+        alt=""
+        src="./img/roman.jpg"
+      />
+      <span
+        className="close-btn"
+        onClick={[Function]}
+      >
+        <i
+          className="fas fa-window-close"
+        />
+      </span>
+    </div>
+    <div
+      className="tour-info"
+    >
+      <h3>
+         
+        Kpota
+         
+      </h3>
+      <h4>
+         
+        Culture
+         
+      </h4>
+      <h5>
+        info
+         
+        <span
+          onClick={[Function]}
+        >
+          <i
+            className="fas fa-caret-square-down"
+          />
+        </span>
+      </h5>
+    </div>
+  </article>
+  <article
+    className="tour"
+  >
+    <div
+      className="img-container"
+    >
+      <img
+        alt=""
+        src="./img/sara.jpg"
+      />
+      <span
+        className="close-btn"
+        onClick={[Function]}
+      >
+        <i
+          className="fas fa-window-close"
+        />
+      </span>
+    </div>
+    <div
+      className="tour-info"
+    >
+      <h3>
+         
+        Alabade
+         
+      </h3>
+      <h4>
+         
+        Savoir
+         
+      </h4>
+      <h5>
+        info
+         
+        <span
+          onClick={[Function]}
+        >
+          <i
+            className="fas fa-caret-square-down"
+          />
+        </span>
+      </h5>
+    </div>
+  </article>
+  <article
+    className="tour"
+  >
+    <div
+      className="img-container"
+    >
+      <img
+        alt=""
+        src="./img/simon.jpg"
+      />
+      <span
+        className="close-btn"
+        onClick={[Function]}
+      >
+        <i
+          className="fas fa-window-close"
+        />
+      </span>
+    </div>
+    <div
+      className="tour-info"
+    >
+      <h3>
+         
+        Hull-city
+         
+      </h3>
+      <h4>
+         
+        Paix
+         
+      </h4>
+      <h5>
+        info
+         
+        <span
+          onClick={[Function]}
+        >
+          <i
+            className="fas fa-caret-square-down"
+          />
+        </span>
+      </h5>
+    </div>
+  </article>
+</section>
+`;
